@@ -1,1 +1,2 @@
-second try to merge this file to master branch
+second edit of file2
+
