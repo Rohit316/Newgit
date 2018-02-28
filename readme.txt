@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-this is my changed file
+this is my second changed file
 =======
 this is new file 
 >>>>>>> master
