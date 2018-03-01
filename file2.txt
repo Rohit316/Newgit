@@ -2,5 +2,11 @@
 
 this is done to check git merge conflict
 
+<<<<<<< HEAD
 kiueebuavgbgdavbhnSDCJKNWSHHIcba
 vadehdbvhiaedbvhae vjc
+=======
+kiueebuavgbgdavbhnSDCJKNWSHHIcba
+vadehdbvhiaedbvhae vjc
+ 
+>>>>>>> branch1
