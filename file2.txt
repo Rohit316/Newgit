@@ -1,2 +1,5 @@
-third edit of file2
+4th edit of file2
 
+this is done to check git merge conflict
+
+kiueebuavgbgdavbhnSDCJKNWSHHIcba
